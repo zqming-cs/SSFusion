@@ -111,16 +111,18 @@ bash run_imagenet_resnet152.sh
 
 SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training
 
-<!-- If you are using this repository for your paper, please cite our work
+If you are using this repository for your paper, please cite our work
 ```
 @inproceedings{ming2025SSFusion,
   title={SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training},
   author={Zhangqiang, Ming and Rui, Wang and Yuchong, Hu and Yuanhao, Shu and Wenxiang, Zhou and Xinjue, Zheng and Dan, Feng},
-  booktitle={Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing},
+  booktitle={Proceedings of the 42nd IEEE International Conference on Data Engineering (ICDE2026)},
   url={https://doi.org/10.1145/xxxx.xxxx}
   year={2026}
 }
-``` -->
+```
+
+
 
 ## **Referred Datasets**
 
