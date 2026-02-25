@@ -115,7 +115,7 @@ If you are using this repository for your paper, please cite our work
 ```
 @inproceedings{ming2026SSFusion,
   title={SSFusion: Tensor Fusion with Selective Sparsification for Efficient Distributed DNN Training},
-  author={Zhangqiang, Ming and Rui, Wang and Yuchong, Hu and Yuanhao, Shu and Wenxiang, Zhou and Xinjue, Zheng and Dan, Feng},
+  author={Zhangqiang Ming and Rui Wang and Yuchong Hu and Yuanhao Shu and Wenxiang Zhou and Xinjue Zheng and Dan Feng},
   booktitle={Proceedings of the 42nd IEEE International Conference on Data Engineering (ICDE2026)},
   url={https://doi.org/10.1145/xxxx.xxxx}
   year={2026}
